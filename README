@@ -1,5 +1,5 @@
 This package provides the functions for signal identification of IMFs from noise-assisted MEMD.
-Further questions, please contact meng.hu@drexel.edu or hualou.liang@drexel.edu.
+Further questions, please contact vhumeng@gmail.com or hualou.liang@drexel.edu.
 
 To reproduce the figures in the paper below under submission, run demo.m
 
